@@ -7,4 +7,4 @@
 
 ## 📫 Connect With Me
 
-- **Telegram:** [CLICK ME]([https://t.me/GeekGodness])
+- **Telegram:** [CLICK ME](https://t.me/GeekGodness)
